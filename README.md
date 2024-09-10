@@ -1,9 +1,5 @@
 
 # Toralizer
-A command-line client for connecting to the Tor privacy network.
-
-## Overview
-
 Toralizer is a tool that allows users to route their network traffic through the Tor network by intercepting system calls and redirecting them through a local proxy server. This ensures privacy and anonymity by masking the user's identity when making network requests.
 
 Instead of using standard commands like:
